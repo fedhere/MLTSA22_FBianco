@@ -6,7 +6,7 @@ Welcome to Machine Learning for Time Series Analysis class, a class developed an
 
 **This class has a [Code of Conduct](CodeofConduct.md) Before you do any thing else, please review the code of conduct. If you have questions of concerns about it let me know promptly**
 
-Please review the [Syllabus](bit.ly/MLTSA21syl)
+Please review the [Syllabus](https://bit.ly/MLTSA22syl)
 
 Slides [https://slides.com/federicabianco/decks/mltsa](https://slides.com/federicabianco/decks/mltsa)
 Note that the slide decks exists from previous years but will be updated as we go
