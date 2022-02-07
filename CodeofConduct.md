@@ -1,5 +1,6 @@
 # Machine Learning for Time Series Analysis Code of Conduct
 
+This class's code of conduct is written with the intent to ensure we all give each other respect and trust.
 
 **Diversity is a resource that enriches us culturally and intellectually. 
 Thank you for making this space harassment free and inclusive to all members of this class environment**
