@@ -46,4 +46,4 @@ The homework is due by Monday at midnight. For homework turned in through github
 - 20% labs performance and participation
 - 15% homework
 - 20% midterm (project proposal)
-- 25% ﬁnal (project)
+- 30% ﬁnal (project)
