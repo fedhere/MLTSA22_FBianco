@@ -8,6 +8,8 @@ Welcome to Machine Learning for Time Series Analysis class, a class developed an
 
 Please review the [Syllabus](https://bit.ly/MLTSA22syl)
 
+Please make sure you monitor the [class slack](slack-bnj3067.slack.com) which is the main way through which we will communicate, other than in person interaction
+
 Slides [https://slides.com/federicabianco/decks/mltsa](https://slides.com/federicabianco/decks/mltsa)
 Note that the slide decks exists from previous years but will be updated as we go
 
