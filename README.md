@@ -40,7 +40,7 @@ Ultimately the homework are for the student to learn, and the test of your learn
 The homework is due by Monday at midnight. For homework turned in through github this means we will only review material uploaded by the deadline. A single 3-day (72 hours) exception is allowed throughout the semester, explicitly declare that you are going to use it when you do not turn in the homework, and do use it wisely (if you still do not turn in the homework at the end of the 72 hours your extension will still be available for you to use). The lowest grade in the first half of the course (before midterm), and the lowest grade in the second half will be disregarded in computing the final grade. If you fail to turn in an assignment that will be a 0, and the lowest grade. This means you will lose the chance to disregard your worst performance. Homework will be exclusively received through github (unless otherwise stated). The homeworks assignments are downloaded automatically at due time, so there will be no ambiguity as of whether the homework will be turned in time.
 
 
-**Grades are based on **
+**Grades are based on**
 
 - 15% pre-class questions
 - 20% labs performance and participation
