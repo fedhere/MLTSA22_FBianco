@@ -26,7 +26,8 @@ Various extra credit options:
 - Explore slighgly more sophisticated silouette plots and metrics for the clusters, e.g. https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
 
 Hint: the easiest, not computationally efficient or elegant way to calculate the intracluster variance (but hey, it works!) is with a nested for loop:
-``` for n in range(2,10):
+``` 
+for n in range(2,10):
         for j in range(0,i):
              for i in range(\<nunber of objects incluster j>):
                       calculate the quantity and store it somewhere so you can plot it against n'''
