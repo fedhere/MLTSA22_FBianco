@@ -11,7 +11,7 @@ What I want to see:
 2. Indicate which countries belongs to the 2 smalles clusters. Can you speculate or better yet find out through an internet search on the history of the country/counties if there any reasons for the trends you see? 
 3. A plot of the intracluster variance (y axis) against the number of clusters (x axis) when you cluster with N=2,3,4,5,6,7,8,9,10 clusters with k-means:
 That is: calculate and plot the variable defined by the equation below for each N. 
-![img](intraclustervar.png)
+![img](intraclustervariance.png)
 
 This represents the cumulative variance, (x-mean)^2, of all points, or the cumulative distance of each point to its cluster center: note the double sum. One sum runs over all clusters. For each element of the sum you are summing over all points in that cluster the value (x-c)^2 where c is that cluter center.
 This will result in a plot like the one in [this slide](https://slides.com/d/r8TCHzM/live#/4/18)
