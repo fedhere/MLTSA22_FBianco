@@ -29,7 +29,7 @@ Hint: the easiest, not computationally efficient or elegant way to calculate the
 ``` 
 for n in range(2,10):
         for j in range(0,i):
-             for i in range(\<nunber of objects incluster j>):
+             for i in range(<nunber of objects incluster j>):
                       calculate the quantity and store it somewhere so you can plot it against n'''
                       
                       
