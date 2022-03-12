@@ -17,7 +17,8 @@ That is: calculate and plot the variable defined by the equation below for each 
 This represents the cumulative variance, (x-mean)^2, of all points, or the cumulative distance of each point to its cluster center: note the double sum. One sum runs over all clusters (and remember, you are doing this for a different number of clusters). For each element of the sum you are summing over all points in that cluster -that is what _x(j)_ represents: all _x_ points in cluster _j_- the value (x-c)^2 where c is that cluter center.
 This will result in a plot like the one in [this slide](https://slides.com/d/r8TCHzM/live#/4/18)
  which I described in class (see video of thursday). Tell me if, based on this plot "elbow plot" or "silouette plot", you can make a data-informed decision about the right number of cluster to use in k-means.
- 4. Dont forget to include a description of what you are doing in english text along the way! describe what the blocks of code you write are there for.
+
+4. Dont forget to include a description of what you are doing in english text along the way!  this can simply be a markdown (text) cell here and there in your notebook to describe what the blocks of code you write are there for.
 
  
 Various extra credit options:
