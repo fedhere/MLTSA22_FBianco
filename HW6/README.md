@@ -16,5 +16,5 @@ Choose any one method and one cost function described in the paper assigned as r
 [Selective review of offline change point detection methods](https://arxiv.org/pdf/1801.00718.pdf)
 Charles Truonga, Laurent Oudre, Nicolas Vayatis 2018
 
-Implement the method in Rupture on the earthquake data
+Implement the methods in Rupture on the LANL earthquake data - 
 
