@@ -2,7 +2,7 @@
 
 [Selective review of offline change point detection methods](https://arxiv.org/pdf/1801.00718.pdf)
 Charles Truonga, Laurent Oudre, Nicolas Vayatis 2018
-Section 1-2 and 1 method from Section 4.
+Section 1-2 and 1 cost function / method from Section 4 & 5.
 
 # Homework
 Follow the notebook template instructions
