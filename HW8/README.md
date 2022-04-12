@@ -1,7 +1,7 @@
 ## scope
 This homework is quite open ended. There is no scheleton notebook for it. 
 
-Use the PLAsTiCC challenge data you used in HW6 and 7 and extract features from the time series via autoencoder. 
+Use the PLAsTiCC challenge data you used in HW7 and extract features from the time series via autoencoder. 
 
 Then augment the feature space you used in HW7 with the new features created by the autoencoder, and see if this improves the classification. 
 
