@@ -1,11 +1,14 @@
 ## scope
 This homework is quite open ended. There is no scheleton notebook for it. 
 
-Use the PLAsTiCC challenge data you used in HW7 and prepare the time series for ingestion by an autoencoder
 
 ## due 4/20 midnight:
-extract features from the time series via autoencoder. 
+Use the PLAsTiCC challenge data you used in HW7 and prepare the time series for ingestion by an autoencoder
+Make sure you save your reorganized time series into a file (e.g. https://numpy.org/doc/stable/reference/generated/numpy.save.html)
 
+
+## due 4/27 midnight:
+extract features from the time series via autoencoder (you have examples of the autoencoders in the notebooks distributed in class, so you just need to modify them
 Then combine the feature space you used in HW7 with the new features created by the autoencoder, and train a classifier to predict the object class. 
 
 ## what are the challenges in this work?
@@ -46,7 +49,7 @@ you can pass it as
 
          input = t1|t2|t3|t4....f1|f2|f3|f4
 
-## this has been pushed to HW 9 (4/25) so it is not due on 4/18, but here is a look ahead
+## this has been pushed to HW 9 (4/27) so it is not due on 4/20, but here is a look ahead
 
 Create an autoencoder where the middle layer is smaller than the original size of the time series (or set of time series if you work with all colors at once). After training the NN on the training data extract the bottleneck layer of your neural network. This will be a set of N numbers (where N depends on the choice you made when you generated the model architecture). Those numbers should be used as N features to be fed to the same random forest classifier you created in HW7 (which you will need to retrain).  You should include the same features you had used in HW7 **plus the new N feature** and then print the accuracy, and the classification matrix. Are there any improvements?
 
