@@ -5,7 +5,7 @@ Use the PLAsTiCC challenge data you used in HW7 and extract features from the ti
 
 Then augment the feature space you used in HW7 with the new features created by the autoencoder, and see if this improves the classification. 
 
-## Challenges
+## what are the challenges in this work?
 
 For each object in the dataset there are 7 time series for 7 optical filters. Each time series is composed of a series of time stamps and a series of fluxes (i.e. the time series are sparsely sampled).
 
