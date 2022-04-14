@@ -3,7 +3,7 @@ This homework is quite open ended. There is no scheleton notebook for it.
 
 Use the PLAsTiCC challenge data you used in HW7 and prepare the time series for ingestion by an autoencoder
 
-## due 4/20:
+## due 4/20 midnight:
 extract features from the time series via autoencoder. 
 
 Then combine the feature space you used in HW7 with the new features created by the autoencoder, and train a classifier to predict the object class. 
