@@ -39,16 +39,15 @@ For example [here is the UDel students' CoC](http://www1.udel.edu/stuguide/18-19
 I expect to see a supportive, collaborative attitude from all of my students to assure we maintain and foster 
 a learning environment that leads to rigor, excellence, and happiness. This includes:  
 
-- Be mindful of cultural norms. Make sure you know how your classmates want to be addressed 
-(e.g. ask their preferred pronoun; mine is she/her/hers). 
-
-- Do not interrupt your classmates while they are speaking, do not speak over classmates and be aware 
-and respectful of the natural volume of their voice. 
-Be respectful of individual communication skills and fluency in the common languages we speak. 
- 
-- be available, within reason, to share knowledge and do so respectfully. 
-Never make a classmate feel bad for not knowing something you already know. 
+- Be mindful of cultural norms. Make sure you know how your teammates want to be addressed (e.g. ask their preferred pronoun; mine is she/her/hers). Do not interrupt your teammates while they are speaking, do not speak over teammates and be aware and respectful of the natural volume of their voice. Be respectful of individual communication skills and fluency in the common languages we speak.
+- be available, within reason, to share knowledge and do so respectfully. Never make a teammate feel bad for not knowing something you already know. It is not your role to assess your teammates' efforts or knowledge. If you feel like supporting a teammate is getting in the way of your productivity in the group, bring this concern to me directly.
+- be conscientious and value your classmates and instructor's time when asking for help. Make sure you have done your share of weight lifting: you have reviewed the resources available to the group and looked around for answers when applicable. Prepare yourself to receive help: be prepared to ask clear questions and to be able to show and demonstrate the issues you are having. Your classmates and instructor should not be expected to struggle to understand what your problem or question is
+- do not use your phone or laptop while in class or lab if not to take notes or find resources to contribute to the conversation (when allowed). This is out of respect for your classmates and instructors: if they are speaking they should be heard!
+- be on time for class
+- for zoom classes, consider turning on your camera if you are comfortable with it to help us communicate with each other more easily
+- never make a classmate feel bad for not knowing something you already know.
 It is not your role to assess your classmates' efforts or knowledge. 
+
 If you feel like supporting a class is getting in the way of your productivity 
 in the class bring this concern to me directly.
 
